@@ -1,0 +1,4 @@
+LEER ANTES DE EJECUTAR EL CODIGO
+
+Para que el código funcione correctamente y sin errores debe tenes las version 2.0.9 de la board manage del esp32
+se adjuntara una imagen junto a este archivo para que se vea como es la instalación y como llegar hasta allí a traves del Arduinoide
