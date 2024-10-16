@@ -1,0 +1,18 @@
+## Leer antes que nada ##
+ 
+serie de pasos de como instalar la librería correctamente 
+
+paso 1:
+entre a la carpeta I2C
+
+paso 2:
+copie todas las carpetas que se alojan ahi 
+
+paso 3:
+vaya a C:\Users\SU-usuario\Documents\Arduino\libraries
+
+paso 4:
+pegue todo lo que copio 
+
+paso 5:
+Disfrutar las librerías instaladas
